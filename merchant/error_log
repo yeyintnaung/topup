@@ -1,0 +1,33 @@
+[07-Oct-2017 14:15:12 UTC] PHP Notice:  Undefined index: _mid in /home/thebymm/public_html/topup/merchant/index.php on line 13
+[07-Oct-2017 14:15:12 UTC] PHP Notice:  Undefined variable: db in /home/thebymm/public_html/topup/merchant/index.php on line 15
+[07-Oct-2017 14:15:12 UTC] PHP Fatal error:  Call to a member function query() on null in /home/thebymm/public_html/topup/merchant/index.php on line 15
+[09-Oct-2017 22:45:17 UTC] PHP Notice:  Undefined index: _mid in /home/thebymm/public_html/topup/merchant/index.php on line 13
+[09-Oct-2017 22:45:17 UTC] PHP Notice:  Undefined variable: db in /home/thebymm/public_html/topup/merchant/index.php on line 15
+[09-Oct-2017 22:45:17 UTC] PHP Fatal error:  Call to a member function query() on null in /home/thebymm/public_html/topup/merchant/index.php on line 15
+[16-Oct-2017 06:40:12 UTC] PHP Notice:  Undefined index: _mid in /home/thebymm/public_html/topup/merchant/index.php on line 13
+[16-Oct-2017 06:40:12 UTC] PHP Notice:  Undefined variable: db in /home/thebymm/public_html/topup/merchant/index.php on line 15
+[16-Oct-2017 06:40:12 UTC] PHP Fatal error:  Call to a member function query() on null in /home/thebymm/public_html/topup/merchant/index.php on line 15
+[16-Nov-2017 07:00:21 UTC] PHP Notice:  Undefined index: _mid in /home/thebymm/public_html/topup/merchant/index.php on line 13
+[16-Nov-2017 07:00:21 UTC] PHP Notice:  Undefined variable: db in /home/thebymm/public_html/topup/merchant/index.php on line 15
+[16-Nov-2017 07:00:21 UTC] PHP Fatal error:  Call to a member function query() on null in /home/thebymm/public_html/topup/merchant/index.php on line 15
+[24-Dec-2017 08:26:48 UTC] PHP Notice:  Undefined index: _mid in /home/thebymm/public_html/topup/merchant/index.php on line 13
+[24-Dec-2017 08:26:48 UTC] PHP Notice:  Undefined variable: db in /home/thebymm/public_html/topup/merchant/index.php on line 15
+[24-Dec-2017 08:26:48 UTC] PHP Fatal error:  Call to a member function query() on null in /home/thebymm/public_html/topup/merchant/index.php on line 15
+[27-Jan-2018 19:16:57 UTC] PHP Notice:  Undefined index: _mid in /home/thebymm/public_html/topup/merchant/index.php on line 13
+[27-Jan-2018 19:16:57 UTC] PHP Notice:  Undefined variable: db in /home/thebymm/public_html/topup/merchant/index.php on line 15
+[27-Jan-2018 19:16:57 UTC] PHP Fatal error:  Call to a member function query() on null in /home/thebymm/public_html/topup/merchant/index.php on line 15
+[05-Mar-2018 07:14:39 UTC] PHP Notice:  Undefined index: _mid in /home/thebymm/public_html/topup/merchant/index.php on line 13
+[05-Mar-2018 07:14:39 UTC] PHP Notice:  Undefined variable: db in /home/thebymm/public_html/topup/merchant/index.php on line 15
+[05-Mar-2018 07:14:39 UTC] PHP Fatal error:  Call to a member function query() on null in /home/thebymm/public_html/topup/merchant/index.php on line 15
+[12-Apr-2018 01:49:16 UTC] PHP Notice:  Undefined index: _mid in /home/thebymm/public_html/topup/merchant/index.php on line 13
+[12-Apr-2018 01:49:16 UTC] PHP Notice:  Undefined variable: db in /home/thebymm/public_html/topup/merchant/index.php on line 15
+[12-Apr-2018 01:49:16 UTC] PHP Fatal error:  Call to a member function query() on null in /home/thebymm/public_html/topup/merchant/index.php on line 15
+[17-May-2018 03:29:08 UTC] PHP Notice:  Undefined index: _mid in /home/thebymm/public_html/topup/merchant/index.php on line 13
+[17-May-2018 03:29:08 UTC] PHP Notice:  Undefined variable: db in /home/thebymm/public_html/topup/merchant/index.php on line 15
+[17-May-2018 03:29:08 UTC] PHP Fatal error:  Call to a member function query() on null in /home/thebymm/public_html/topup/merchant/index.php on line 15
+[25-May-2018 15:05:33 UTC] PHP Notice:  Undefined index: _mid in /home/thebymm/public_html/topup/merchant/index.php on line 13
+[25-May-2018 15:05:33 UTC] PHP Notice:  Undefined variable: db in /home/thebymm/public_html/topup/merchant/index.php on line 15
+[25-May-2018 15:05:33 UTC] PHP Fatal error:  Call to a member function query() on null in /home/thebymm/public_html/topup/merchant/index.php on line 15
+[22-Jun-2018 11:26:55 UTC] PHP Notice:  Undefined index: _mid in /home/thebymm/public_html/topup/merchant/index.php on line 13
+[22-Jun-2018 11:26:55 UTC] PHP Notice:  Undefined variable: db in /home/thebymm/public_html/topup/merchant/index.php on line 15
+[22-Jun-2018 11:26:55 UTC] PHP Fatal error:  Call to a member function query() on null in /home/thebymm/public_html/topup/merchant/index.php on line 15

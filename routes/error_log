@@ -1,0 +1,12 @@
+[10-Oct-2017 09:46:05 UTC] PHP Fatal error:  Class 'Route' not found in /home/thebymm/public_html/topup/routes/api.php on line 16
+[10-Oct-2017 09:46:20 UTC] PHP Fatal error:  Class 'Artisan' not found in /home/thebymm/public_html/topup/routes/console.php on line 16
+[10-Oct-2017 09:46:30 UTC] PHP Fatal error:  Class 'Auth' not found in /home/thebymm/public_html/topup/routes/web.php on line 20
+[14-Oct-2017 11:45:04 UTC] PHP Fatal error:  Class 'Route' not found in /home/thebymm/public_html/topup/routes/api.php on line 16
+[14-Oct-2017 12:42:00 UTC] PHP Fatal error:  Class 'Artisan' not found in /home/thebymm/public_html/topup/routes/console.php on line 16
+[15-Oct-2017 04:54:11 UTC] PHP Fatal error:  Class 'Auth' not found in /home/thebymm/public_html/topup/routes/web.php on line 20
+[22-Oct-2017 16:41:30 UTC] PHP Fatal error:  Class 'Route' not found in /home/thebymm/public_html/topup/routes/api.php on line 16
+[23-Oct-2017 03:34:50 UTC] PHP Fatal error:  Class 'Artisan' not found in /home/thebymm/public_html/topup/routes/console.php on line 16
+[23-Oct-2017 05:52:57 UTC] PHP Fatal error:  Class 'Auth' not found in /home/thebymm/public_html/topup/routes/web.php on line 20
+[30-Oct-2017 18:53:00 UTC] PHP Fatal error:  Class 'Artisan' not found in /home/thebymm/public_html/topup/routes/console.php on line 16
+[30-Oct-2017 21:24:19 UTC] PHP Fatal error:  Class 'Auth' not found in /home/thebymm/public_html/topup/routes/web.php on line 20
+[13-Nov-2017 05:01:17 UTC] PHP Fatal error:  Class 'Route' not found in /home/thebymm/public_html/topup/routes/api.php on line 16

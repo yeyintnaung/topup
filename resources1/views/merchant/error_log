@@ -1,0 +1,30 @@
+[11-Oct-2017 17:58:58 UTC] PHP Notice:  Undefined variable: topup in /home/thebymm/public_html/topup/resources1/views/merchant/bonus.blade.php on line 30
+[11-Oct-2017 17:58:58 UTC] PHP Notice:  Trying to get property of non-object in /home/thebymm/public_html/topup/resources1/views/merchant/bonus.blade.php on line 30
+[11-Oct-2017 17:58:58 UTC] PHP Fatal error:  Class 'App\Card' not found in /home/thebymm/public_html/topup/resources1/views/merchant/bonus.blade.php on line 31
+[11-Oct-2017 17:59:05 UTC] PHP Notice:  Undefined variable: merchant in /home/thebymm/public_html/topup/resources1/views/merchant/history.blade.php on line 34
+[11-Oct-2017 17:59:05 UTC] PHP Notice:  Trying to get property of non-object in /home/thebymm/public_html/topup/resources1/views/merchant/history.blade.php on line 34
+[11-Oct-2017 17:59:05 UTC] PHP Fatal error:  Class 'App\Merchant' not found in /home/thebymm/public_html/topup/resources1/views/merchant/history.blade.php on line 35
+[25-Oct-2017 19:24:12 UTC] PHP Notice:  Undefined variable: topup in /home/thebymm/public_html/topup/resources1/views/merchant/bonus.blade.php on line 30
+[25-Oct-2017 19:24:12 UTC] PHP Notice:  Trying to get property of non-object in /home/thebymm/public_html/topup/resources1/views/merchant/bonus.blade.php on line 30
+[25-Oct-2017 19:24:12 UTC] PHP Fatal error:  Class 'App\Card' not found in /home/thebymm/public_html/topup/resources1/views/merchant/bonus.blade.php on line 31
+[26-Oct-2017 10:02:32 UTC] PHP Notice:  Undefined variable: merchant in /home/thebymm/public_html/topup/resources1/views/merchant/history.blade.php on line 34
+[26-Oct-2017 10:02:32 UTC] PHP Notice:  Trying to get property of non-object in /home/thebymm/public_html/topup/resources1/views/merchant/history.blade.php on line 34
+[26-Oct-2017 10:02:32 UTC] PHP Fatal error:  Class 'App\Merchant' not found in /home/thebymm/public_html/topup/resources1/views/merchant/history.blade.php on line 35
+[02-Nov-2017 23:13:51 UTC] PHP Notice:  Undefined variable: merchant in /home/thebymm/public_html/topup/resources1/views/merchant/history.blade.php on line 34
+[02-Nov-2017 23:13:51 UTC] PHP Notice:  Trying to get property of non-object in /home/thebymm/public_html/topup/resources1/views/merchant/history.blade.php on line 34
+[02-Nov-2017 23:13:51 UTC] PHP Fatal error:  Class 'App\Merchant' not found in /home/thebymm/public_html/topup/resources1/views/merchant/history.blade.php on line 35
+[03-Nov-2017 14:09:19 UTC] PHP Notice:  Undefined variable: topup in /home/thebymm/public_html/topup/resources1/views/merchant/bonus.blade.php on line 30
+[03-Nov-2017 14:09:20 UTC] PHP Notice:  Trying to get property of non-object in /home/thebymm/public_html/topup/resources1/views/merchant/bonus.blade.php on line 30
+[03-Nov-2017 14:09:20 UTC] PHP Fatal error:  Class 'App\Card' not found in /home/thebymm/public_html/topup/resources1/views/merchant/bonus.blade.php on line 31
+[10-Nov-2017 08:05:19 UTC] PHP Notice:  Undefined variable: merchant in /home/thebymm/public_html/topup/resources1/views/merchant/history.blade.php on line 34
+[10-Nov-2017 08:05:19 UTC] PHP Notice:  Trying to get property of non-object in /home/thebymm/public_html/topup/resources1/views/merchant/history.blade.php on line 34
+[10-Nov-2017 08:05:19 UTC] PHP Fatal error:  Class 'App\Merchant' not found in /home/thebymm/public_html/topup/resources1/views/merchant/history.blade.php on line 35
+[11-Nov-2017 20:47:30 UTC] PHP Notice:  Undefined variable: topup in /home/thebymm/public_html/topup/resources1/views/merchant/bonus.blade.php on line 30
+[11-Nov-2017 20:47:30 UTC] PHP Notice:  Trying to get property of non-object in /home/thebymm/public_html/topup/resources1/views/merchant/bonus.blade.php on line 30
+[11-Nov-2017 20:47:30 UTC] PHP Fatal error:  Class 'App\Card' not found in /home/thebymm/public_html/topup/resources1/views/merchant/bonus.blade.php on line 31
+[13-Jun-2018 15:53:49 UTC] PHP Notice:  Undefined variable: topup in /home/thebymm/public_html/topup/resources1/views/merchant/bonus.blade.php on line 30
+[13-Jun-2018 15:53:49 UTC] PHP Notice:  Trying to get property of non-object in /home/thebymm/public_html/topup/resources1/views/merchant/bonus.blade.php on line 30
+[13-Jun-2018 15:53:49 UTC] PHP Fatal error:  Class 'App\Card' not found in /home/thebymm/public_html/topup/resources1/views/merchant/bonus.blade.php on line 31
+[13-Jun-2018 15:53:53 UTC] PHP Notice:  Undefined variable: merchant in /home/thebymm/public_html/topup/resources1/views/merchant/history.blade.php on line 34
+[13-Jun-2018 15:53:53 UTC] PHP Notice:  Trying to get property of non-object in /home/thebymm/public_html/topup/resources1/views/merchant/history.blade.php on line 34
+[13-Jun-2018 15:53:53 UTC] PHP Fatal error:  Class 'App\Merchant' not found in /home/thebymm/public_html/topup/resources1/views/merchant/history.blade.php on line 35

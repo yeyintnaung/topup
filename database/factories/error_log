@@ -1,0 +1,6 @@
+[19-Oct-2017 04:46:57 UTC] PHP Notice:  Undefined variable: factory in /home/thebymm/public_html/topup/database/factories/ModelFactory.php on line 14
+[19-Oct-2017 04:46:57 UTC] PHP Fatal error:  Call to a member function define() on null in /home/thebymm/public_html/topup/database/factories/ModelFactory.php on line 14
+[27-Oct-2017 04:45:38 UTC] PHP Notice:  Undefined variable: factory in /home/thebymm/public_html/topup/database/factories/ModelFactory.php on line 14
+[27-Oct-2017 04:45:38 UTC] PHP Fatal error:  Call to a member function define() on null in /home/thebymm/public_html/topup/database/factories/ModelFactory.php on line 14
+[04-Nov-2017 13:09:35 UTC] PHP Notice:  Undefined variable: factory in /home/thebymm/public_html/topup/database/factories/ModelFactory.php on line 14
+[04-Nov-2017 13:09:35 UTC] PHP Fatal error:  Call to a member function define() on null in /home/thebymm/public_html/topup/database/factories/ModelFactory.php on line 14

@@ -1,0 +1,85 @@
+[11-Oct-2017 17:55:37 UTC] PHP Fatal error:  Class 'DB' not found in /home/thebymm/public_html/topup/resources/views/reports/count_by_all.blade.php on line 45
+[11-Oct-2017 17:55:39 UTC] PHP Fatal error:  Class 'DB' not found in /home/thebymm/public_html/topup/resources/views/reports/count_by_date.blade.php on line 45
+[11-Oct-2017 17:55:41 UTC] PHP Notice:  Undefined variable: invoice in /home/thebymm/public_html/topup/resources/views/reports/invoice.blade.php on line 36
+[11-Oct-2017 17:55:41 UTC] PHP Notice:  Trying to get property of non-object in /home/thebymm/public_html/topup/resources/views/reports/invoice.blade.php on line 36
+[11-Oct-2017 17:55:41 UTC] PHP Fatal error:  Class 'App\Topup' not found in /home/thebymm/public_html/topup/resources/views/reports/invoice.blade.php on line 37
+[11-Oct-2017 17:55:43 UTC] PHP Notice:  Undefined variable: list in /home/thebymm/public_html/topup/resources/views/reports/profit.blade.php on line 71
+[11-Oct-2017 17:55:43 UTC] PHP Notice:  Trying to get property of non-object in /home/thebymm/public_html/topup/resources/views/reports/profit.blade.php on line 71
+[11-Oct-2017 17:55:43 UTC] PHP Fatal error:  Class 'DB' not found in /home/thebymm/public_html/topup/resources/views/reports/profit.blade.php on line 73
+[11-Oct-2017 17:55:46 UTC] PHP Notice:  Undefined variable: topup in /home/thebymm/public_html/topup/resources/views/reports/topup.blade.php on line 40
+[11-Oct-2017 17:55:46 UTC] PHP Notice:  Trying to get property of non-object in /home/thebymm/public_html/topup/resources/views/reports/topup.blade.php on line 40
+[11-Oct-2017 17:55:46 UTC] PHP Fatal error:  Class 'App\Card' not found in /home/thebymm/public_html/topup/resources/views/reports/topup.blade.php on line 41
+[11-Oct-2017 17:55:48 UTC] PHP Notice:  Undefined variable: list in /home/thebymm/public_html/topup/resources/views/reports/topup_amount.blade.php on line 48
+[11-Oct-2017 17:55:48 UTC] PHP Notice:  Trying to get property of non-object in /home/thebymm/public_html/topup/resources/views/reports/topup_amount.blade.php on line 48
+[11-Oct-2017 17:55:48 UTC] PHP Fatal error:  Class 'DB' not found in /home/thebymm/public_html/topup/resources/views/reports/topup_amount.blade.php on line 50
+[11-Oct-2017 17:55:50 UTC] PHP Notice:  Undefined variable: topup in /home/thebymm/public_html/topup/resources/views/reports/user.blade.php on line 40
+[11-Oct-2017 17:55:50 UTC] PHP Notice:  Trying to get property of non-object in /home/thebymm/public_html/topup/resources/views/reports/user.blade.php on line 40
+[11-Oct-2017 17:55:50 UTC] PHP Fatal error:  Class 'App\Card' not found in /home/thebymm/public_html/topup/resources/views/reports/user.blade.php on line 41
+[25-Oct-2017 18:27:24 UTC] PHP Notice:  Undefined variable: list in /home/thebymm/public_html/topup/resources/views/reports/topup_amount.blade.php on line 48
+[25-Oct-2017 18:27:24 UTC] PHP Notice:  Trying to get property of non-object in /home/thebymm/public_html/topup/resources/views/reports/topup_amount.blade.php on line 48
+[25-Oct-2017 18:27:24 UTC] PHP Fatal error:  Class 'DB' not found in /home/thebymm/public_html/topup/resources/views/reports/topup_amount.blade.php on line 50
+[26-Oct-2017 15:22:03 UTC] PHP Notice:  Undefined variable: invoice in /home/thebymm/public_html/topup/resources/views/reports/invoice.blade.php on line 36
+[26-Oct-2017 15:22:03 UTC] PHP Notice:  Trying to get property of non-object in /home/thebymm/public_html/topup/resources/views/reports/invoice.blade.php on line 36
+[26-Oct-2017 15:22:03 UTC] PHP Fatal error:  Class 'App\Topup' not found in /home/thebymm/public_html/topup/resources/views/reports/invoice.blade.php on line 37
+[27-Oct-2017 02:10:05 UTC] PHP Fatal error:  Class 'DB' not found in /home/thebymm/public_html/topup/resources/views/reports/count_by_all.blade.php on line 45
+[27-Oct-2017 10:12:14 UTC] PHP Notice:  Undefined variable: list in /home/thebymm/public_html/topup/resources/views/reports/profit.blade.php on line 71
+[27-Oct-2017 10:12:14 UTC] PHP Notice:  Trying to get property of non-object in /home/thebymm/public_html/topup/resources/views/reports/profit.blade.php on line 71
+[27-Oct-2017 10:12:14 UTC] PHP Fatal error:  Class 'DB' not found in /home/thebymm/public_html/topup/resources/views/reports/profit.blade.php on line 73
+[28-Oct-2017 02:16:49 UTC] PHP Notice:  Undefined variable: topup in /home/thebymm/public_html/topup/resources/views/reports/topup.blade.php on line 40
+[28-Oct-2017 02:16:49 UTC] PHP Notice:  Trying to get property of non-object in /home/thebymm/public_html/topup/resources/views/reports/topup.blade.php on line 40
+[28-Oct-2017 02:16:49 UTC] PHP Fatal error:  Class 'App\Card' not found in /home/thebymm/public_html/topup/resources/views/reports/topup.blade.php on line 41
+[28-Oct-2017 12:54:26 UTC] PHP Notice:  Undefined variable: topup in /home/thebymm/public_html/topup/resources/views/reports/user.blade.php on line 40
+[28-Oct-2017 12:54:26 UTC] PHP Notice:  Trying to get property of non-object in /home/thebymm/public_html/topup/resources/views/reports/user.blade.php on line 40
+[28-Oct-2017 12:54:26 UTC] PHP Fatal error:  Class 'App\Card' not found in /home/thebymm/public_html/topup/resources/views/reports/user.blade.php on line 41
+[31-Oct-2017 15:55:29 UTC] PHP Fatal error:  Class 'DB' not found in /home/thebymm/public_html/topup/resources/views/reports/count_by_date.blade.php on line 45
+[02-Nov-2017 08:21:48 UTC] PHP Notice:  Undefined variable: list in /home/thebymm/public_html/topup/resources/views/reports/topup_amount.blade.php on line 48
+[02-Nov-2017 08:21:48 UTC] PHP Notice:  Trying to get property of non-object in /home/thebymm/public_html/topup/resources/views/reports/topup_amount.blade.php on line 48
+[02-Nov-2017 08:21:48 UTC] PHP Fatal error:  Class 'DB' not found in /home/thebymm/public_html/topup/resources/views/reports/topup_amount.blade.php on line 50
+[03-Nov-2017 00:14:33 UTC] PHP Notice:  Undefined variable: invoice in /home/thebymm/public_html/topup/resources/views/reports/invoice.blade.php on line 36
+[03-Nov-2017 00:14:33 UTC] PHP Notice:  Trying to get property of non-object in /home/thebymm/public_html/topup/resources/views/reports/invoice.blade.php on line 36
+[03-Nov-2017 00:14:33 UTC] PHP Fatal error:  Class 'App\Topup' not found in /home/thebymm/public_html/topup/resources/views/reports/invoice.blade.php on line 37
+[03-Nov-2017 21:22:59 UTC] PHP Notice:  Undefined variable: list in /home/thebymm/public_html/topup/resources/views/reports/profit.blade.php on line 71
+[03-Nov-2017 21:22:59 UTC] PHP Notice:  Trying to get property of non-object in /home/thebymm/public_html/topup/resources/views/reports/profit.blade.php on line 71
+[03-Nov-2017 21:22:59 UTC] PHP Fatal error:  Class 'DB' not found in /home/thebymm/public_html/topup/resources/views/reports/profit.blade.php on line 73
+[04-Nov-2017 08:45:32 UTC] PHP Fatal error:  Class 'DB' not found in /home/thebymm/public_html/topup/resources/views/reports/count_by_all.blade.php on line 45
+[05-Nov-2017 09:03:48 UTC] PHP Notice:  Undefined variable: topup in /home/thebymm/public_html/topup/resources/views/reports/topup.blade.php on line 40
+[05-Nov-2017 09:03:48 UTC] PHP Notice:  Trying to get property of non-object in /home/thebymm/public_html/topup/resources/views/reports/topup.blade.php on line 40
+[05-Nov-2017 09:03:48 UTC] PHP Fatal error:  Class 'App\Card' not found in /home/thebymm/public_html/topup/resources/views/reports/topup.blade.php on line 41
+[05-Nov-2017 18:21:43 UTC] PHP Notice:  Undefined variable: topup in /home/thebymm/public_html/topup/resources/views/reports/user.blade.php on line 40
+[05-Nov-2017 18:21:43 UTC] PHP Notice:  Trying to get property of non-object in /home/thebymm/public_html/topup/resources/views/reports/user.blade.php on line 40
+[05-Nov-2017 18:21:43 UTC] PHP Fatal error:  Class 'App\Card' not found in /home/thebymm/public_html/topup/resources/views/reports/user.blade.php on line 41
+[08-Nov-2017 10:15:10 UTC] PHP Fatal error:  Class 'DB' not found in /home/thebymm/public_html/topup/resources/views/reports/count_by_date.blade.php on line 45
+[09-Nov-2017 15:35:07 UTC] PHP Fatal error:  Class 'DB' not found in /home/thebymm/public_html/topup/resources/views/reports/count_by_date.blade.php on line 45
+[10-Nov-2017 18:34:21 UTC] PHP Notice:  Undefined variable: list in /home/thebymm/public_html/topup/resources/views/reports/topup_amount.blade.php on line 48
+[10-Nov-2017 18:34:21 UTC] PHP Notice:  Trying to get property of non-object in /home/thebymm/public_html/topup/resources/views/reports/topup_amount.blade.php on line 48
+[10-Nov-2017 18:34:21 UTC] PHP Fatal error:  Class 'DB' not found in /home/thebymm/public_html/topup/resources/views/reports/topup_amount.blade.php on line 50
+[11-Nov-2017 05:34:05 UTC] PHP Notice:  Undefined variable: list in /home/thebymm/public_html/topup/resources/views/reports/profit.blade.php on line 71
+[11-Nov-2017 05:34:05 UTC] PHP Notice:  Trying to get property of non-object in /home/thebymm/public_html/topup/resources/views/reports/profit.blade.php on line 71
+[11-Nov-2017 05:34:05 UTC] PHP Fatal error:  Class 'DB' not found in /home/thebymm/public_html/topup/resources/views/reports/profit.blade.php on line 73
+[11-Nov-2017 13:10:20 UTC] PHP Notice:  Undefined variable: invoice in /home/thebymm/public_html/topup/resources/views/reports/invoice.blade.php on line 36
+[11-Nov-2017 13:10:20 UTC] PHP Notice:  Trying to get property of non-object in /home/thebymm/public_html/topup/resources/views/reports/invoice.blade.php on line 36
+[11-Nov-2017 13:10:20 UTC] PHP Fatal error:  Class 'App\Topup' not found in /home/thebymm/public_html/topup/resources/views/reports/invoice.blade.php on line 37
+[11-Nov-2017 23:43:23 UTC] PHP Fatal error:  Class 'DB' not found in /home/thebymm/public_html/topup/resources/views/reports/count_by_all.blade.php on line 45
+[13-Nov-2017 07:38:27 UTC] PHP Notice:  Undefined variable: topup in /home/thebymm/public_html/topup/resources/views/reports/topup.blade.php on line 40
+[13-Nov-2017 07:38:27 UTC] PHP Notice:  Trying to get property of non-object in /home/thebymm/public_html/topup/resources/views/reports/topup.blade.php on line 40
+[13-Nov-2017 07:38:27 UTC] PHP Fatal error:  Class 'App\Card' not found in /home/thebymm/public_html/topup/resources/views/reports/topup.blade.php on line 41
+[13-Nov-2017 11:00:31 UTC] PHP Notice:  Undefined variable: topup in /home/thebymm/public_html/topup/resources/views/reports/user.blade.php on line 40
+[13-Nov-2017 11:00:31 UTC] PHP Notice:  Trying to get property of non-object in /home/thebymm/public_html/topup/resources/views/reports/user.blade.php on line 40
+[13-Nov-2017 11:00:31 UTC] PHP Fatal error:  Class 'App\Card' not found in /home/thebymm/public_html/topup/resources/views/reports/user.blade.php on line 41
+[13-Jun-2018 15:52:15 UTC] PHP Fatal error:  Class 'DB' not found in /home/thebymm/public_html/topup/resources/views/reports/count_by_all.blade.php on line 45
+[13-Jun-2018 15:52:19 UTC] PHP Fatal error:  Class 'DB' not found in /home/thebymm/public_html/topup/resources/views/reports/count_by_date.blade.php on line 45
+[13-Jun-2018 15:52:24 UTC] PHP Notice:  Undefined variable: invoice in /home/thebymm/public_html/topup/resources/views/reports/invoice.blade.php on line 36
+[13-Jun-2018 15:52:24 UTC] PHP Notice:  Trying to get property of non-object in /home/thebymm/public_html/topup/resources/views/reports/invoice.blade.php on line 36
+[13-Jun-2018 15:52:24 UTC] PHP Fatal error:  Class 'App\Topup' not found in /home/thebymm/public_html/topup/resources/views/reports/invoice.blade.php on line 37
+[13-Jun-2018 15:52:27 UTC] PHP Notice:  Undefined variable: list in /home/thebymm/public_html/topup/resources/views/reports/profit.blade.php on line 71
+[13-Jun-2018 15:52:27 UTC] PHP Notice:  Trying to get property of non-object in /home/thebymm/public_html/topup/resources/views/reports/profit.blade.php on line 71
+[13-Jun-2018 15:52:27 UTC] PHP Fatal error:  Class 'DB' not found in /home/thebymm/public_html/topup/resources/views/reports/profit.blade.php on line 73
+[13-Jun-2018 15:52:31 UTC] PHP Notice:  Undefined variable: topup in /home/thebymm/public_html/topup/resources/views/reports/topup.blade.php on line 40
+[13-Jun-2018 15:52:31 UTC] PHP Notice:  Trying to get property of non-object in /home/thebymm/public_html/topup/resources/views/reports/topup.blade.php on line 40
+[13-Jun-2018 15:52:31 UTC] PHP Fatal error:  Class 'App\Card' not found in /home/thebymm/public_html/topup/resources/views/reports/topup.blade.php on line 41
+[13-Jun-2018 15:52:35 UTC] PHP Notice:  Undefined variable: list in /home/thebymm/public_html/topup/resources/views/reports/topup_amount.blade.php on line 48
+[13-Jun-2018 15:52:35 UTC] PHP Notice:  Trying to get property of non-object in /home/thebymm/public_html/topup/resources/views/reports/topup_amount.blade.php on line 48
+[13-Jun-2018 15:52:35 UTC] PHP Fatal error:  Class 'DB' not found in /home/thebymm/public_html/topup/resources/views/reports/topup_amount.blade.php on line 50
+[13-Jun-2018 15:52:44 UTC] PHP Notice:  Undefined variable: topup in /home/thebymm/public_html/topup/resources/views/reports/user.blade.php on line 40
+[13-Jun-2018 15:52:44 UTC] PHP Notice:  Trying to get property of non-object in /home/thebymm/public_html/topup/resources/views/reports/user.blade.php on line 40
+[13-Jun-2018 15:52:44 UTC] PHP Fatal error:  Class 'App\Card' not found in /home/thebymm/public_html/topup/resources/views/reports/user.blade.php on line 41

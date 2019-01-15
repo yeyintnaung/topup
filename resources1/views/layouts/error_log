@@ -1,0 +1,10 @@
+[11-Oct-2017 17:58:41 UTC] PHP Fatal error:  Call to undefined function csrf_token() in /home/thebymm/public_html/topup/resources1/views/layouts/app.blade.php on line 19
+[11-Oct-2017 17:58:48 UTC] PHP Fatal error:  Call to undefined function csrf_token() in /home/thebymm/public_html/topup/resources1/views/layouts/template.blade.php on line 23
+[26-Oct-2017 02:02:22 UTC] PHP Fatal error:  Call to undefined function csrf_token() in /home/thebymm/public_html/topup/resources1/views/layouts/app.blade.php on line 19
+[26-Oct-2017 06:38:36 UTC] PHP Fatal error:  Call to undefined function csrf_token() in /home/thebymm/public_html/topup/resources1/views/layouts/template.blade.php on line 23
+[03-Nov-2017 07:04:12 UTC] PHP Fatal error:  Call to undefined function csrf_token() in /home/thebymm/public_html/topup/resources1/views/layouts/app.blade.php on line 19
+[03-Nov-2017 15:30:00 UTC] PHP Fatal error:  Call to undefined function csrf_token() in /home/thebymm/public_html/topup/resources1/views/layouts/template.blade.php on line 23
+[11-Nov-2017 05:26:21 UTC] PHP Fatal error:  Call to undefined function csrf_token() in /home/thebymm/public_html/topup/resources1/views/layouts/template.blade.php on line 23
+[26-Nov-2017 20:22:29 UTC] PHP Fatal error:  Call to undefined function csrf_token() in /home/thebymm/public_html/topup/resources1/views/layouts/app.blade.php on line 19
+[13-Jun-2018 15:53:43 UTC] PHP Fatal error:  Call to undefined function csrf_token() in /home/thebymm/public_html/topup/resources1/views/layouts/app.blade.php on line 19
+[13-Jun-2018 15:53:47 UTC] PHP Fatal error:  Call to undefined function csrf_token() in /home/thebymm/public_html/topup/resources1/views/layouts/template.blade.php on line 23
